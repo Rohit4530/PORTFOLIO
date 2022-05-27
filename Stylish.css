@@ -1,0 +1,62 @@
+.inner{
+    margin-left: 40px;
+   font-size:50px;
+  background-color: transparent;
+  color: black;
+  text-align: right;
+}
+body{
+    background-color:white;
+}
+.star{
+    font-size: 90px;
+    color: red;
+    display: inline;
+    margin-top: -20px;
+    text-align: left;
+}
+.outer{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-top: 30px;
+    
+}
+.frd{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+button{
+    margin: 10px;
+}
+.list{
+   display: flex;
+  justify-content: flex-end;
+}
+.thinline{
+    border-color: black;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.about{
+  margin: auto;
+    background-color: brown;
+    color: white;
+    width: 75%;
+    text-align: center;
+}
+.coder{
+ margin-top: 10px;
+ display: inline;
+ font-size: larger;
+ padding: 10px;
+ color: rgb(134, 132, 132);
+}
+.skil{
+    margin: auto;
+    text-align: center;
+}
